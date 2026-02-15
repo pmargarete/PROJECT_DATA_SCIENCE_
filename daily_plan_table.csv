@@ -1,0 +1,286 @@
+date,day_of_week,planning_streak,phase,task_number,is_backlog,backlog_id,task_description,expected_difficulty,expected_motivation,complete_or_not,reason_task_outcome,mood_before,mood_after
+04/11/2025,Tuesday,0,1,,,,,,,,,,
+05/11/2025,Wednesday,0,1,,,,,,,,,,
+06/11/2025,Thursday,0,1,,,,,,,,,,
+07/11/2025,Friday,0,1,,,,,,,,,,
+08/11/2025,Saturday,0,1,,,,,,,,,,
+09/11/2025,Sunday,0,1,,,,,,,,,,
+10/11/2025,Monday,0,1,,,,,,,,,,
+11/11/2025,Tuesday,0,1,,,,,,,,,,
+12/11/2025,Wednesday,0,1,,,,,,,,,,
+13/11/2025,Thursday,0,1,,,,,,,,,,
+14/11/2025,Friday,0,1,,,,,,,,,,
+15/11/2025,Saturday,0,1,,,,,,,,,,
+16/11/2025,Sunday,0,1,,,,,,,,,,
+17/11/2025,Monday,0,1,,,,,,,,,,
+18/11/2025,Tuesday,1,2,1,No,,Less than an hour each screen time for Facebook and Instagram,4,4,No,It exceeded ,4,2
+18/11/2025,Tuesday,1,2,2,No,,Early run around UPD,4,3,No,I was not able to wake up early,4,2
+19/11/2025,Wednesday,2,2,1,No,,Wake up at 8 am for the whole week,4,2,No,I often sleep at 1am these past few days,3,3
+19/11/2025,Wednesday,2,2,2,No,,Try to apply for internship,5,3,No,Portfolio is not yet ready,3,3
+20/11/2025,Thursday,3,2,1,Yes,B19,Take more than 3 quality time a day socializing for stress relief,3,4,Yes,Catch up outside with refreshment away from screen time,2,5
+20/11/2025,Thursday,3,2,2,No,,Meet a recommended newbie from churchmate,2,5,Yes,Cancelled class,2,5
+21/11/2025,Friday,4,2,1,No,,Try visiting clinic and use phone as means of communication,4,3,Yes,Not well so needed to find answers for quick recovery,1,3
+21/11/2025,Friday,4,2,2,No,,Exceed the daily XP in Datacamp,3,4,Yes,I got productive,1,3
+22/11/2025,Saturday,5,2,1,No,,8 glasses water,4,4,Yes,I needed for voice recovery,3,3
+22/11/2025,Saturday,5,2,2,No,,Ginger tea and rest voice as much as possible,3,4,Yes,Not good taste and resting felt boring but I needed,3,3
+23/11/2025,Sunday,0,2,,,,,,,,,,
+23/11/2025,Sunday,0,2,,,,,,,,,,
+24/11/2025,Monday,1,2,1,No,,Do not exceed Social Media app restriction,3,4,Yes,I got productive today so I followed the restriction,3,5
+24/11/2025,Monday,1,2,2,Yes,B04,Reread Intermediate Python in Datacamp,4,5,Yes,I achieved 4k XP for the first time,3,5
+25/11/2025,Tuesday,0,2,,,,,,,,,,
+25/11/2025,Tuesday,0,2,,,,,,,,,,
+26/11/2025,Wednesday,1,2,1,No,,Productivity and less of social media,3,4,Yes,First few weeks be like obeying my plans,4,4
+26/11/2025,Wednesday,1,2,2,No,,Planning and DS proposal making,4,5,Yes,Pushed myself so I can have a topic to propose,4,4
+27/11/2025,Thursday,2,2,1,No,,Early wake up and fetch Titas,3,4,Yes,Few hours of sleep but this is effort for family,4,4
+27/11/2025,Thursday,2,2,2,No,,Baclaran with tita and join titas at night,4,4,Yes,Helped my senior Titas because my strength be the one carrying the stuffs bought,4,4
+28/11/2025,Friday,3,2,1,No,,Go for a long walk and eat salad,3,4,Yes,Was motivated to walk and reward self a salad,3,3
+28/11/2025,Friday,3,2,2,No,,Finish a whole part of track in Datacamp,4,3,No,Not enough amount of time,3,3
+29/11/2025,Saturday,4,2,1,No,,No phone usage until 5pm,5,4,Yes,Disciplined myself enough,3,4
+29/11/2025,Saturday,4,2,2,Yes,B03,Day 3 of taking 8 glasses of water,3,5,Yes,Still trying to continue the good hydration,3,4
+30/11/2025,Sunday,0,2,,,,,,,,,,
+30/11/2025,Sunday,0,2,,,,,,,,,,
+01/12/2025,Monday,1,2,1,Yes,B01,Data input task by brother,4,4,Yes,He needed my help so I did it immediately,3,4
+01/12/2025,Monday,1,2,2,No,,Evangelize 50 students,5,5,No,I was overwhelemed and none of the KKBs was ready,3,4
+02/12/2025,Tuesday,2,2,1,No,,Finish Datacamp 2000 XP,4,5,Yes,"I missed a lot, so I focused on finishing",3,3
+02/12/2025,Tuesday,2,2,2,No,,No social media until 5 pm,4,4,Yes,"Since I put my phone afar, I successfully did it",3,3
+03/12/2025,Wednesday,3,2,1,No,,Read first 5 pages of Probability chapter,4,4,No,Not so productive day,4,3
+03/12/2025,Wednesday,3,2,2,No,,Clean all parts of room and do laundry,4,5,Yes,I was able to do the cleaning and laundry because it was already delayed,4,3
+04/12/2025,Thursday,4,2,1,No,,Assist Titas in Pasay,4,5,Yes,They needed help so I freed my time,4,4
+04/12/2025,Thursday,4,2,2,Yes,B02,Read first 5 pages of Probability chapter,4,5,Yes,Now I got to read it finally because I wanted to start,4,4
+05/12/2025,Friday,5,3,1,No,,Morning meet with Allyah,4,4,Yes,Her schedule and mine made it,5,5
+05/12/2025,Friday,5,3,2,No,,Gracie talk and evangelism activity,5,4,Yes,Finally free schedule,5,5
+05/12/2025,Friday,5,3,3,No,,Data input NUS,3,4,Yes,Another needed help so I finished it,5,5
+06/12/2025,Saturday,6,3,1,No,,Buy materials for party preparation below budget,4,4,Yes,We successfully did it with each other's help,3,5
+06/12/2025,Saturday,6,3,2,No,,Successful commitee handling,4,5,Yes,The party came off great,3,5
+06/12/2025,Saturday,6,3,3,No,,1k Datacamp XP,3,4,No,I lacked time when I got home,3,5
+07/12/2025,Sunday,7,3,1,No,,Daily journaling and streak progress amidst busy day,4,4,Yes,Still made it through for the streak,4,4
+07/12/2025,Sunday,7,3,2,No,,Accompany brother ,3,4,Yes,"At night, I accompanied him out ",4,4
+07/12/2025,Sunday,7,3,3,No,,Attend service atmost 30 minutes late,4,4,No,I was late again,4,4
+08/12/2025,Monday,8,3,1,Yes,B20,Deactivate both instagram and facebook for a week,4,4,Yes,Did it for a whole week. Restricted myself ,4,4
+08/12/2025,Monday,8,3,2,No,,Delayed catch up with Ashley,3,5,Yes,"Schedule became best, we were both free",4,4
+08/12/2025,Monday,8,3,3,No,,Visit relative at night,4,4,Yes,"Rare to visit an Ate but since it is holiday, might as well catch up",4,4
+09/12/2025,Tuesday,9,3,1,No,,Continue Datacamp and Anki,3,5,Yes,"Even if the day was busy, I kept track",4,5
+09/12/2025,Tuesday,9,3,2,No,,Finalize planning tracking,4,5,Yes,Checked my logs in Excel for discipline,4,5
+09/12/2025,Tuesday,9,3,3,No,,Exercise: carry weights today,4,4,No,It was hard for me to go back weight lifting,4,5
+10/12/2025,Wednesday,10,3,1,No,,2k Datacamp XP,3,4,Yes,A productive day still even if it got challenging,3,3
+10/12/2025,Wednesday,10,3,2,No,,Data Input Task,3,4,Yes,My brother needed me for his PHD application,3,3
+10/12/2025,Wednesday,10,3,3,No,,Avoid social media before going to bed,4,4,No,It was a hard resistance when it comes to social media sometimes,3,3
+11/12/2025,Thursday,11,3,1,No,,Attend Paskong PH,4,4,Yes,"Since it fell on no classes, I was able to attend",3,3
+11/12/2025,Thursday,11,3,2,No,,Continue Datacamp and Anki,3,4,Yes,Discipline check,3,3
+11/12/2025,Thursday,11,3,3,No,,Read part of Outliers book,4,4,Yes,Was calming myself in exchange of reading a book,3,3
+12/12/2025,Friday,12,3,1,No,,Meet with Mia and Jhe for ScOM Hangout,3,5,Yes,We did the hangout after almost 2 months of just online chats,2,4
+12/12/2025,Friday,12,3,2,No,,Datacamp Usage 3k XP,4,4,No,It was hard to achieve this goal today,2,4
+12/12/2025,Friday,12,3,3,Yes,B07,Run 5-km around UST ,3,5,Yes,Got to go out and breathe,2,4
+13/12/2025,Saturday,13,3,1,No,,Datacamp Usage 2k XP,4,5,No,Its hard to be productive on Datacamp recently,4,4
+13/12/2025,Saturday,13,3,2,No,,Fill the blank spaces in ML data,3,4,No,Went out so not enough amount of time,4,4
+13/12/2025,Saturday,13,3,3,No,,Data Input Task,3,4,Yes,Just some but not much,4,4
+14/12/2025,Sunday,14,3,1,No,,UP long walk,4,5,Yes,Needed air to breathe,4,4
+14/12/2025,Sunday,14,3,2,No,,Thesis research,3,4,Yes,Researched needed info for Thesis for midterms,4,4
+14/12/2025,Sunday,14,3,3,No,,Pass data requirements for DS,3,4,Yes,Passed well,4,4
+15/12/2025,Monday,15,3,1,No,,Finalize input and pay for application,3,4,Yes,"After finalizing the data input, I was tasked to pay for it",2,3
+15/12/2025,Monday,15,3,2,No,,Review Datacamp Statistics topic,3,4,Yes,I needed for my midterm exam tomorrow,2,3
+15/12/2025,Monday,15,3,3,No,,Follow social media restriction ,3,4,Yes,Avoided using phone much for productivity,2,3
+16/12/2025,Tuesday,16,3,1,No,,Social media ban until 5 pm,3,4,Yes,I stayed away from my phone,3,3
+16/12/2025,Tuesday,16,3,2,No,,Datacamp 3k XP,4,4,No,Only 1.5k was done,3,3
+16/12/2025,Tuesday,16,3,3,No,,Thesis finalization meet,3,4,No,We did not meet since. Continued to focus on my part,3,3
+17/12/2025,Wednesday,17,3,1,No,,Focus on salad and cook for your own,4,5,Yes,Ate salad for health,3,5
+17/12/2025,Wednesday,17,3,2,No,,Acad discipline consistency,3,4,Yes,Disciplined enough,3,5
+17/12/2025,Wednesday,17,3,3,No,,Journal and devotion time,3,4,Yes,Not skipping journaling,3,5
+18/12/2025,Thursday,18,3,1,No,,Meet Campus Area family,2,3,Yes,Met area family before the break,3,4
+18/12/2025,Thursday,18,3,2,No,,Check ride schedule,3,4,Yes,Checked if there are any available,3,4
+18/12/2025,Thursday,18,3,3,No,,Datacamp  Finish 1 whole part,3,4,No,Did not have time,3,4
+19/12/2025,Friday,19,3,1,Yes,B08,Wake up at 8am for day 15,4,4,Yes,Promised myself to do the goal,4,5
+19/12/2025,Friday,19,3,2,No,,Attend Youth Summit Day 1,2,5,Yes,Needed summit attendance,4,5
+19/12/2025,Friday,19,3,3,No,,Wholesome talk with KKB’s,3,4,Yes,Nothing beats KKB talks,4,5
+20/12/2025,Saturday,20,3,1,No,,Attend Youth Summit Day 2,2,5,Yes,Final summit that didn't disappoint,4,5
+20/12/2025,Saturday,20,3,2,No,,Check reservation for going back to province,4,3,Yes,Did recheck again to be able to go home,4,5
+20/12/2025,Saturday,20,3,3,Yes,B18,30th-day daily journaling accomplishment ,5,4,Yes,I've consistently done my journal,4,5
+21/12/2025,Sunday,21,3,1,Yes,B15,50th-day no soft drinks,5,4,Yes,A little easy because of acidic stomach,4,4
+21/12/2025,Sunday,21,3,2,No,,Wrap up for going home,3,4,Yes,Prepared enough,4,4
+21/12/2025,Sunday,21,3,3,No,,Read part of book,3,4,Yes,Read the beginning part,4,4
+22/12/2025,Monday,22,3,1,No,,Early wake up for readiness,3,4,Yes,Early readiness,5,4
+22/12/2025,Monday,22,3,2,No,,Going back home ,2,5,Yes,Can't miss,5,4
+22/12/2025,Monday,22,3,3,No,,Share a gospel to person sitting beside me,3,4,No,Full-bus can't share,5,4
+23/12/2025,Tuesday,23,3,1,No,,Create messages for Christmas,4,5,Yes,Did for important people,4,4
+23/12/2025,Tuesday,23,3,2,No,,2K XP Datacamp,3,4,No,Didn't have time,4,4
+23/12/2025,Tuesday,23,3,3,No,,Prayer time with Family,3,4,Yes,Was able to end the night with prayer,4,4
+24/12/2025,Wednesday,24,3,1,No,,Wake up early for bus reservation ,3,4,Yes,Did it for Manila trip next year,4,4
+24/12/2025,Wednesday,24,3,2,No,,Cook two dishes for Noche Buena,4,4,Yes,Was able to cook two different pasta,4,4
+24/12/2025,Wednesday,24,3,3,No,,Initiate Bible study with family,4,4,Yes,Done as part of Christmas' spirit,4,4
+25/12/2025,Thursday,25,3,1,No,,Send heartfelt photo with messages online,4,4,Yes,Sent for important people,4,5
+25/12/2025,Thursday,25,3,2,No,,Help cousin for a house blessing,3,4,Yes,"A lot, including me, joined the blessing",4,5
+25/12/2025,Thursday,25,3,3,Yes,B17,30th day no usage for first 3 hours after waking,4,4,Yes,Held back to checking phone,4,5
+26/12/2025,Friday,26,3,1,No,,Book reading and Datacamp progress,3,4,Yes,Tried to accomplish,4,4
+26/12/2025,Friday,26,3,2,Yes,B12,20th-day Anki Track Accomplishment,3,4,Yes,Finally 21/30,4,4
+26/12/2025,Friday,26,3,3,No,,Help cousin for caption making,3,4,Yes,Asked for help and I did,4,4
+27/12/2025,Saturday,27,3,1,No,,Decorate for house,3,3,Yes,Did improvements for house,4,5
+27/12/2025,Saturday,27,3,2,No,,Food preparation and do chores,3,3,Yes,I was the one taking care of older brothers' food,4,5
+27/12/2025,Saturday,27,3,3,No,,Mysterious movie night with brothers,2,3,Yes,We did movie time together,4,5
+28/12/2025,Sunday,28,4,1,No,,Major house cleaning,3,3,Yes,Brother made me help him,3,4
+28/12/2025,Sunday,28,4,2,No,,Grocery shopping,2,3,Yes,Breakfast food for the break,3,4
+28/12/2025,Sunday,28,4,3,No,,Do Sunday Service with family,3,3,Yes,We had Sunday Service as part of being uniquely together,3,4
+28/12/2025,Sunday,28,4,4,No,,House visitation and united praying,3,3,Yes,More on intimate prayers for the house and their family,3,4
+29/12/2025,Monday,29,4,1,No,,Exercise with brother in the morning,3,4,No,He did. I did not.,3,3
+29/12/2025,Monday,29,4,2,No,,Read 2 Chapters of Atomic Habits book,3,4,No,I missed,3,3
+29/12/2025,Monday,29,4,3,No,,Finish a Track in Datacamp,3,3,No,Did not finish because I had no enough time,3,3
+29/12/2025,Monday,29,4,4,No,,Visit cousins and bond with them,3,3,Yes,Catch up very well,3,3
+30/12/2025,Tuesday,0,4,,,,,,,,,,
+30/12/2025,Tuesday,0,4,,,,,,,,,,
+30/12/2025,Tuesday,0,4,,,,,,,,,,
+30/12/2025,Tuesday,0,4,,,,,,,,,,
+31/12/2025,Wednesday,1,4,1,No,,Assigned in decorations and invitations for New Year's Eve,4,4,Yes,Had a hard job preparing all,4,4
+31/12/2025,Wednesday,1,4,2,No,,Datacamp and Anki Progress,3,3,Yes,Input in time,4,4
+31/12/2025,Wednesday,1,4,3,No,,Hosting and gift preparation,3,3,Yes,"For the new year, it was accomplished",4,4
+31/12/2025,Wednesday,1,4,4,No,,Avoid social media much during the day,3,4,Yes,Was busy enough to check phone,4,4
+1/1/2026,Thursday,2,4,1,No,,Prepare red envelopes for relatives,3,3,Yes,New year to give blessings to other,4,4
+1/1/2026,Thursday,2,4,2,No,,San Juan agenda New Year meet,3,4,Yes,Traveled at their home and glad to meet relatives,4,4
+1/1/2026,Thursday,2,4,3,No,,Socialize and bond with cousins and titas,3,4,Yes,It was so refreshing ,4,4
+1/1/2026,Thursday,2,4,4,No,,Greet warm messages to people virtually,3,4,Yes,New Year thanks to people who's still with me this year,4,4
+2/1/2026,Friday,3,4,1,No,,Outside meet with HS friends,3,5,Yes,Excited to be with them,5,5
+2/1/2026,Friday,3,4,2,No,,Share the gospel to friends,4,5,No,Missed this,5,5
+2/1/2026,Friday,3,4,3,No,,Read part of book before going out,3,4,No,Was not able to read before all the agendas,5,5
+2/1/2026,Friday,3,4,4,No,,Do cleaning,3,3,Yes,For a better home,5,5
+3/1/2026,Saturday,4,4,1,No,,"Wake up early, cook and do chores",3,3,Yes,This is my responsibility,4,4
+3/1/2026,Saturday,4,4,2,No,,Prepare for cousins/nephews snacks,3,3,Yes,Prepared for them,4,4
+3/1/2026,Saturday,4,4,3,No,,Organize Zach and cousins' play activity,3,3,Yes,They played at home,4,4
+3/1/2026,Saturday,4,4,4,Yes,B09,Achieve the 90th-day streak in Datacamp,5,5,Yes,One of the best achievements so far,4,4
+4/1/2026,Sunday,5,4,1,No,,Breakfast meal preparation,3,3,Yes,Responsibility,3,2
+4/1/2026,Sunday,5,4,2,No,,Pack things for Manila trip,3,3,Yes,Final preparation,3,2
+4/1/2026,Sunday,5,4,3,No,,Progress of Anki and Datacamp,3,3,Yes,Still  got progress,3,2
+4/1/2026,Sunday,5,4,4,No,,No phone usage of more than 1 hour,4,4,Yes,No time to use phone much,3,2
+5/1/2026,Monday,6,4,1,No,,Disciple meet of brother,3,4,Yes,We were able to go with him,2,2
+5/1/2026,Monday,6,4,2,No,,Finalization before brother's flight,3,4,Yes,The final temporary separation happened  in Manila,2,2
+5/1/2026,Monday,6,4,3,No,,Quality time with siblings for the last time,3,4,Yes,Sadly it was enjoyed,2,2
+5/1/2026,Monday,6,4,4,No,,Follow limited screen time implementation,3,4,Yes,Social media screen time is being tracked again,2,2
+6/1/2026,Tuesday,7,4,1,No,,Read Atomic Habits book 10-15 pages,3,5,Yes,Grasped a lot. Good book,3,4
+6/1/2026,Tuesday,7,4,2,No,,Finalize data,3,4,No,Did not have time,3,4
+6/1/2026,Tuesday,7,4,3,No,,Intentional and long devotion time,4,5,Yes,"Before the night ends, it happened",3,4
+6/1/2026,Tuesday,7,4,4,No,,Go back to coding practice,3,5,No,Did not have time during the day,3,4
+7/1/2026,Wednesday,8,4,1,Yes,B05,Finish Supervised Learning Track in Datacamp,3,5,Yes,Pushed my limit,4,4
+7/1/2026,Wednesday,8,4,2,No,,Datacamp 1.5k XP,3,4,Yes,Exceeded because I find it fulfilling,4,4
+7/1/2026,Wednesday,8,4,3,No,,Reading time 15-20 pages,3,5,Yes,Enjoying,4,4
+7/1/2026,Wednesday,8,4,4,No,,Limited social media usage,3,4,Yes,Less than an hour of use,4,4
+8/1/2026,Thursday,9,4,1,No,,Join TIP NSTP activity,3,5,Yes,For campus missionary,4,5
+8/1/2026,Thursday,9,4,2,No,,Continue devotion time,3,4,Yes,Long time of commitment indeed,4,5
+8/1/2026,Thursday,9,4,3,No,,Continue reading Atomic Habits,3,4,No,Did not have time,4,5
+8/1/2026,Thursday,9,4,4,Yes,B10,Finish Linked-In Account,3,5,Yes,Engaged well,4,5
+9/1/2026,Friday,10,4,1,No,,Prepare nutritious breakfast,3,5,Yes,Gave my best to eat salad,5,5
+9/1/2026,Friday,10,4,2,No,,Make 5 hours of academic productivity,4,5,Yes,Got productive,5,5
+9/1/2026,Friday,10,4,3,No,,Reading habit,3,5,Yes,Continued the great book,5,5
+9/1/2026,Friday,10,4,4,No,,Take a walk around UST,3,4,Yes,With brother to breathe,5,5
+10/1/2026,Saturday,11,4,1,No,,"No Facebook, Instagram more than 30 minutes",3,4,Yes,Made it,4,4
+10/1/2026,Saturday,11,4,2,No,,Help decor for Thanksgiving party,3,4,Yes,Went there early and helped,4,4
+10/1/2026,Saturday,11,4,3,No,,Prepare for presentation,4,4,Yes,Practiced well for a fun competition,4,4
+10/1/2026,Saturday,11,4,4,No,,Join Thanksgiving Activity U-Belt,4,4,Yes,New Year Celebration at Church was attended,4,4
+11/01/2026,Sunday,12,4,1,No,,Go back to journaling and writing,4,5,No,Did not have much time,5,5
+11/01/2026,Sunday,12,4,2,No,,Sunday Service minister,4,5,Yes,Prepared for good,5,5
+11/01/2026,Sunday,12,4,3,No,,Join SCOM area meeting,4,5,Yes,Catch up after the service,5,5
+11/01/2026,Sunday,12,4,4,No,,Finish 1 chapter reading habit,3,5,No,Not done,5,5
+12/01/2026,Monday,13,4,1,No,,Thesis progress,4,5,Yes,Went back to be hardworking,4,4
+12/01/2026,Monday,13,4,2,No,,Prayer and Fast and Devotion,4,5,Yes,Determined to do,4,4
+12/01/2026,Monday,13,4,3,Yes,B06,Go back to lifting weights for the 5th day for strength improvement,4,4,Yes,To strengthen,4,4
+12/01/2026,Monday,13,4,4,No,,Five hours of productivity,4,5,Yes,"Alloted, efforted",4,4
+13/01/2026,Tuesday,14,4,1,No,,Early wake up and vegetables intake,3,4,No,A little late,4,3
+13/01/2026,Tuesday,14,4,2,No,,Tidy up and do journaling,3,4,Yes,Did it,4,3
+13/01/2026,Tuesday,14,4,3,No,,Academic commitment to start,4,4,Yes,Started,4,3
+13/01/2026,Tuesday,14,4,4,No,,Read Atomic Habits,4,4,No,Did not read much,4,3
+14/01/2026,Wednesday,15,4,1,No,,Finish academic requirement,5,5,Yes,This was hard but there was motivation,4,4
+14/01/2026,Wednesday,15,4,2,No,,Laundry and cleaning,3,4,Yes,Finished well,4,4
+14/01/2026,Wednesday,15,4,3,No,,"Productivity - reading, Datacamp",3,4,Yes,Got to do it,4,4
+14/01/2026,Wednesday,15,4,4,No,,Social Media Limit,3,4,No,"More than an hour each, which was bad for my standard",4,4
+15/01/2026,Thursday,16,4,1,No,,Meet with Sir Mico,4,5,Yes,Helped with thesis,4,4
+15/01/2026,Thursday,16,4,2,No,,Reading,3,4,Yes,Went back to reading again,4,4
+15/01/2026,Thursday,16,4,3,No,,Creation of evaluation form,4,5,Yes,A little challenging but there was basis,4,4
+15/01/2026,Thursday,16,4,4,No,,Family matter research ,3,4,Yes,About business matter,4,4
+16/01/2026,Friday,17,4,1,No,,Meet with KKB and Prayer Walk,3,4,Yes,A needed catch-up,3,4
+16/01/2026,Friday,17,4,2,No,,ML arrangement,3,4,Yes,For Data Science,3,4
+16/01/2026,Friday,17,4,3,No,,Datacamp and Journaling,3,5,Yes,Continue streak and skill,3,4
+16/01/2026,Friday,17,4,4,No,,Phone usage limit,4,5,Yes,To avoid much social media,3,4
+17/01/2026,Saturday,18,4,1,Yes,B14,Complete uploading college projects in GitHub,4,5,Yes,For productivity and internship,4,4
+17/01/2026,Saturday,18,4,2,No,,Posting of school ministry,3,4,Yes,Intended posting as scheduled,4,4
+17/01/2026,Saturday,18,4,3,No,,Annotation,3,4,Yes,Needed for Thesis,4,4
+17/01/2026,Saturday,18,4,4,No,,Journaling and devotion time,4,5,Yes,Continuing the discipline,4,4
+18/01/2026,Sunday,19,4,1,No,,Attend Sunday Service,3,4,Yes,Catching up with people and rest,5,5
+18/01/2026,Sunday,19,4,2,No,,Lifegroup Meet,3,4,Yes,Opening up recent agendas in life,5,5
+18/01/2026,Sunday,19,4,3,No,,Annotation for additional,3,4,Yes,Thesis progress,5,5
+18/01/2026,Sunday,19,4,4,No,,Better LinkedIn profile update,4,5,Yes,Polishing for better wall,5,5
+19/01/2026,Monday,20,4,1,No,,Prepare for Devotion Night and SCOM Meet,3,5,Yes,Lead the prayer night,4,4
+19/01/2026,Monday,20,4,2,No,,Continuous labeling for Thesis,3,4,Yes,For training,4,4
+19/01/2026,Monday,20,4,3,No,,Early dinner outside and buying errand,3,4,Yes,Space to breathe outside,4,4
+19/01/2026,Monday,20,4,4,No,,Start polishing resume,4,5,Yes,Overleaf write ups,4,4
+20/01/2026,Tuesday,21,4,1,No,,Datacamp progress,3,4,Yes,To continue the scholarship,4,3
+20/01/2026,Tuesday,21,4,2,No,,Finalization of ML hypothesis,3,4,Yes,Edited the hypothesis,4,3
+20/01/2026,Tuesday,21,4,3,No,,Thesis talk for Ethics,3,5,Yes,Ethical considerations,4,3
+20/01/2026,Tuesday,21,4,4,No,,Annotation and academic progress,4,4,Yes,More for academic-related works,4,3
+21/01/2026,Wednesday,22,4,1,No,,Consultation Thesis,4,4,Yes,Talked with Doc,3,4
+21/01/2026,Wednesday,22,4,2,No,,CCTV camera lookup at campus,3,4,Yes,For dataset within school,3,4
+21/01/2026,Wednesday,22,4,3,No,,Reading book,3,4,Yes,Continued the habit,3,4
+21/01/2026,Wednesday,22,4,4,No,,Datacamp progress,3,4,Yes,Streak and learning ongoing,3,4
+22/01/2026,Thursday,23,4,1,No,,Clean room and tidy up,3,5,Yes,For a cleaner space,4,3
+22/01/2026,Thursday,23,4,2,No,,Meet Blessie,3,4,Yes,Catching-up younger friends for campus ministry,4,3
+22/01/2026,Thursday,23,4,3,No,,Datacamp 2k XP,4,5,Yes,Datacamp progressive state,4,3
+22/01/2026,Thursday,23,4,4,No,,Continue annotation,3,4,Yes,Ongoing dataset collection,4,3
+23/01/2026,Friday,24,4,1,No,,Better version of resume,4,5,Yes,Improvement,4,3
+23/01/2026,Friday,24,4,2,No,,Annotate two for Thesis,3,4,Yes,More annotations,4,3
+23/01/2026,Friday,24,4,3,No,,Thesis meet and update,3,4,Yes,Group talk,4,3
+23/01/2026,Friday,24,4,4,Yes,B11,Create a ML-related personal project that's not too simple ,5,5,No,Challenging,4,3
+24/01/2026,Saturday,25,4,1,No,,Try new restaurant for dinner,3,4,Yes,Tried good value ,3,4
+24/01/2026,Saturday,25,4,2,No,,Annotate for Thesis,3,4,Yes,For better result of Thesis,3,4
+24/01/2026,Saturday,25,4,3,No,,Datacamp progress and devotion notes,3,4,Yes,Academic and writing notes,3,4
+24/01/2026,Saturday,25,4,4,No,,Eat healthy food,3,4,Yes,Better living,3,4
+25/01/2026,Sunday,26,4,1,No,,Attend Sunday Service,3,4,Yes,Always want to be resting every Sunday afternoon,4,4
+25/01/2026,Sunday,26,4,2,No,,Catch up with two fellow friends,3,4,Yes,Fun talk and safe space people,4,4
+25/01/2026,Sunday,26,4,3,No,,Finish new annotations,3,4,Yes,More dataset,4,4
+25/01/2026,Sunday,26,4,4,No,,More active on LinkedIn,3,4,Yes,Switched my productivity to LinkedIn,4,4
+26/01/2026,Monday,27,4,1,No,,Finalize resume,3,5,Yes,Nearly polished,5,4
+26/01/2026,Monday,27,4,2,No,,Post on LinkedIn,4,5,Yes,First post done,5,4
+26/01/2026,Monday,27,4,3,No,,Finish 2 Datacamp projects,3,4,Yes,An additional project for portfolio,5,4
+26/01/2026,Monday,27,4,4,No,,Breathe to read journals and reflect,3,5,Yes,Needed encouragement from my own writing,5,4
+27/01/2026,Tuesday,28,4,1,No,,Follow up Ethics for Thesis,3,4,Yes,Went to school for Ethics,4,4
+27/01/2026,Tuesday,28,4,2,No,,Attend PowerHouse Tuesday,3,5,Yes,No class so I was able to attend ,4,4
+27/01/2026,Tuesday,28,4,3,No,,No social media usage until 5pm,3,5,Yes,Got to keep avoiding wasting time,4,4
+27/01/2026,Tuesday,28,4,4,No,,Walk for 2km,3,5,Yes,Went outside to still feel the nature,4,4
+28/01/2026,Wednesday,29,4,1,No,,Start applying for internship,4,5,Yes,Started to apply to my first four,4,5
+28/01/2026,Wednesday,29,4,2,Yes,B13,Read Outliers book and create a summary,4,5,Yes,Finally created a summary,4,5
+28/01/2026,Wednesday,29,4,3,No,,Read a chapter of Atomic Habits,3,4,Yes,Missed reading so I came back to be more encouraged,4,5
+28/01/2026,Wednesday,29,4,4,No,,Thesis work follow up,3,4,Yes,Met with the team,4,5
+29/01/2026,Thursday,30,4,1,No,,Review ML concepts for interview,3,4,Yes,Preparation for intenship,4,4
+29/01/2026,Thursday,30,4,2,No,,Take a walk breather,3,4,Yes,To get away from laptop,4,4
+29/01/2026,Thursday,30,4,3,No,,Look for internships and apply more,3,5,Yes,I've applied more because I was encouraged,4,4
+29/01/2026,Thursday,30,4,4,No,,No social media extending 30 minutes,4,5,Yes,Took a challenge for productivity,4,4
+30/01/2026,Friday,31,4,1,No,,Evaluation for Thesis,4,4,Yes,Got evaluated. Need more,3,4
+30/01/2026,Friday,31,4,2,No,,Journaling and reading,4,4,Yes,Wrote and read for mind calmness,3,4
+30/01/2026,Friday,31,4,3,No,,Watch series to breathe,3,4,Yes,Took breaks,3,4
+30/01/2026,Friday,31,4,4,No,,Invite nu scom for vday hangout,3,5,Yes,Scheduled a date for scom nu,3,4
+31/01/2026,Saturday,32,4,1,No,,Thesis annotation for data collection,4,4,Yes,Needed more dataset,4,4
+31/01/2026,Saturday,32,4,2,No,,Expert validation meet,4,5,Yes,Another evaluation for Thesis,4,4
+31/01/2026,Saturday,32,4,3,No,,Space to breathe outside,3,4,Yes,Got to have solitude,4,4
+31/01/2026,Saturday,32,4,4,No,,Social media limit,4,5,Yes,Restricted social media use,4,4
+01/02/2026,Sunday,33,4,1,No,,Attend anointing service,4,5,Yes,Got empowered by the Word,3,3
+01/02/2026,Sunday,33,4,2,No,,Design place for PowerHouse,4,3,Yes,Volunteered to help,3,3
+01/02/2026,Sunday,33,4,3,No,,Laundry and cleaning day,3,4,Yes,Got my room cleaner,3,3
+01/02/2026,Sunday,33,4,4,No,,Start Datacamp competition,4,4,Yes,I wanted to experience SQL ,3,3
+02/02/2026,Monday,34,4,1,No,,Apply more internships,4,5,Yes,Added more application for internship,4,4
+02/02/2026,Monday,34,4,2,No,,Reading and reflecting time,4,5,Yes,Read and got a lot to learn,4,4
+02/02/2026,Monday,34,4,3,No,,Prepare documents,4,4,Yes,For Thesis,4,4
+02/02/2026,Monday,34,4,4,No,,Walk 3km,4,4,Yes,Had to exercise,4,4
+03/02/2026,Tuesday,35,4,1,No,,Continue SQL competition,4,5,Yes,Boosted myself,3,3
+03/02/2026,Tuesday,35,4,2,No,,Better application internship,4,5,Yes,Edited my resume,3,3
+03/02/2026,Tuesday,35,4,3,No,,Thesis documents,3,5,Yes,Prepared and edited documents for compliance,3,3
+03/02/2026,Tuesday,35,4,4,No,,Update and connect to KKB NU,4,5,Yes,Encouraged the group,3,3
+04/02/2026,Wednesday,36,4,1,Yes,B16,Finish the Datacamp Associate Data Scientist in Python,5,5,No,Lack of time,4,3
+04/02/2026,Wednesday,36,4,2,No,,Datacamp progress,4,4,Yes,Continued the track and learning,4,3
+04/02/2026,Wednesday,36,4,3,No,,Slow walks and dine out,3,4,Yes,Walked long kilometers and explored,4,3
+04/02/2026,Wednesday,36,4,4,No,,Arrange data in order,4,4,Yes,ML commitment,4,3
+05/02/2026,Thursday,37,4,1,No,,Apply more internships,4,5,Yes,Added Indeed applications,4,4
+05/02/2026,Thursday,37,4,2,No,,Meet with Ate Queenie,3,4,Yes,Talked about concerns,4,4
+05/02/2026,Thursday,37,4,3,No,,Finish SQL Competition,4,5,Yes,Finished it gladly,4,4
+05/02/2026,Thursday,37,4,4,No,,Revision of resume,5,4,Yes,Added a few information,4,4
+06/02/2026,Friday,38,4,1,No,,Quality meet with Ate Shelah,4,4,Yes,Met for life update,4,4
+06/02/2026,Friday,38,4,2,No,,Process Thesis signing at NU,4,4,Yes,Document processing,4,4
+06/02/2026,Friday,38,4,3,No,,Take note of important information,4,4,Yes,Took additional infor to be passed,4,4
+06/02/2026,Friday,38,4,4,No,,Do the remaining Appendices part,4,4,Yes,Added this part in our Thesis,4,4
+07/02/2026,Saturday,39,4,1,No,,Finalization of Thesis paper,4,5,Yes,Long hours to accomplish,4,5
+07/02/2026,Saturday,39,4,2,No,,Submit Thesis paper,4,5,Yes,Today's the deadline,4,5
+07/02/2026,Saturday,39,4,3,No,,Pass document for Financial Assistance ,4,5,Yes,For additional finance,4,5
+07/02/2026,Saturday,39,4,4,No,,Walk with nature,3,4,Yes,Took a walk to clear mind,4,5
